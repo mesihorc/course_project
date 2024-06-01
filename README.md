@@ -18,7 +18,7 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 ## Screenshot 📷
 -📌 *ANA SAYFA*
 <pre>
-     <img src="screenshot/Screenshot_20240601_194642.png" alt="Home Screen" height="425">      <img src="screenshot/home.gif" alt="Home Screen Gif" height="425">      <img src="screenshot/home2.png" alt="Meal Detail Screen" height="425">
+     <img src="C:\Users\Ahmet\AndroidStudioProjects\myapp\screenshot\Screenshot_20240601_194642.png" alt="Home Screen" height="425">      <img src="screenshot/home.gif" alt="Home Screen Gif" height="425">      <img src="screenshot/home2.png" alt="Meal Detail Screen" height="425">
 </pre>
 
 -📌 *Kategori Sayfası*
