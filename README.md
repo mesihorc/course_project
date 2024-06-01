@@ -18,12 +18,12 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 ## Screenshot 📷
 -📌 *ANA SAYFA*
 <pre>
-     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/Screen_recording_20240601_194736.gif" alt="Ana Sayfa Gif" height="425">      
+     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/birinci.gif" alt="Ana Sayfa Gif" height="425">      
 </pre>
 
 -📌 *Kategori Sayfası*
 <pre>
-     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/Screen_recording_20240601_201404.gif" alt="Category Kategori Gif" height="425">
+     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/ikinci.gif" alt="Category Kategori Gif" height="425">
 </pre>
 
 
@@ -64,12 +64,12 @@ The Meal
 ## Screenshot 📷
 -📌 *Home Screen*
 <pre>
-     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/anaSayfa.webm" alt="Home Screen Gif" height="425">      
+     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/birinci.gif" alt="Home Screen Gif" height="425">      
 </pre>
 
 -📌 *Category Screen*
 <pre>
-     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/chickenYemek.webm" alt="Category Screen Gif" height="425">
+     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/ikinci.gif" alt="Category Screen Gif" height="425">
 </pre>
 
 
