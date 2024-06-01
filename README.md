@@ -18,19 +18,14 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 ## Screenshot 📷
 -📌 *ANA SAYFA*
 <pre>
-     <img src="screenshot/yemek.png" alt="Home Screen" height="425">      <img src="screenshot/home.gif" alt="Home Screen Gif" height="425">      <img src="screenshot/home2.png" alt="Meal Detail Screen" height="425">
+     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/anaSayfa.webm" alt="Home Screen Gif" height="425">      
 </pre>
 
 -📌 *Kategori Sayfası*
 <pre>
-     <img src="screenshot/gategory.png" alt="Category Screen" height="425">     <img src="screenshot/gategory.gif" alt="Category Screen Gif" height="425">
+     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/chickenYemek.webm" alt="Category Screen Gif" height="425">
 </pre>
 
-
--📌 *Sonuç Kategorisi Ekranı*
-<pre> 
-    <img src="screenshot/resultCategory.gif" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory.png" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory2.gif" alt="Result Category Screen" height="425">
-</pre>
 
 
 ## Özellikler 🗃
@@ -69,18 +64,12 @@ The Meal
 ## Screenshot 📷
 -📌 *Home Screen*
 <pre>
-     <img src="screenshot/home1.png" alt="Home Screen" height="425">      <img src="screenshot/home.gif" alt="Home Screen Gif" height="425">      <img src="screenshot/home2.png" alt="Meal Detail Screen" height="425">
+     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/anaSayfa.webm" alt="Home Screen Gif" height="425">      
 </pre>
 
 -📌 *Category Screen*
 <pre>
-     <img src="screenshot/gategory.png" alt="Category Screen" height="425">     <img src="screenshot/gategory.gif" alt="Category Screen Gif" height="425">
-</pre>
-
-
--📌 *Result Category Screen*
-<pre> 
-    <img src="screenshot/resultCategory.gif" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory.png" alt="Result Category Screen" height="425">      <img src="screenshot/resultCategory2.gif" alt="Result Category Screen" height="425">
+     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/chickenYemek.webm" alt="Category Screen Gif" height="425">
 </pre>
 
 
