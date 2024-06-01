@@ -18,12 +18,12 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 ## Screenshot 📷
 -📌 *ANA SAYFA*
 <pre>
-     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/anaSayfa.webm" alt="Home Screen Gif" height="425">      
+     <img src="screenshot/kategori.png" alt="Home Screen" height="425">      <img src="screenshot/anaSayfa.gif" alt="Home Screen Gif" height="425">      
 </pre>
 
 -📌 *Kategori Sayfası*
 <pre>
-     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/chickenYemek.webm" alt="Category Screen Gif" height="425">
+     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Category Screen" height="425">  <img src="screenshot/chickenYemek.gif" alt="Category Screen Gif" height="425">
 </pre>
 
 
